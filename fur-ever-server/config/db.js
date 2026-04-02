@@ -1,7 +1,6 @@
 const { MongoClient, ServerApiVersion } = require("mongodb");
-require("dotenv").config();
 
-const uri = process.env.MONGODB_URI;
+const uri = process.env.MONGO_URI;
 
 const client = new MongoClient(uri, {
   serverApi: {
@@ -18,11 +17,12 @@ const connectDB = async () => {
     if (!db) {
       await client.connect();
       db = client.db("furEverHomeDB");
-      console.log("✅ MongoDB Connected Successfully");
+      console.log("✅ MongoDB connected successfully");
     }
     return db;
   } catch (error) {
-    console.error("Database Connection Error:", error);
+    console.error("❌ Database Connection Error:", error);
+    throw error;
   }
 };
 
