@@ -98,7 +98,7 @@ Users can manage everything from one place:
 ## 🏠 Home Page
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/assets/REPLACE_WITH_IMAGE_LINK/home-page.png" alt="FurEver Home Homepage" width="100%" />
+  <img src="https://github.com/karan466/fur-ever-home/assets/https://fur-ever-home-two.vercel.app//home-page.png" alt="FurEver Home Homepage" width="100%" />
 </p>
 
 ---
@@ -106,7 +106,7 @@ Users can manage everything from one place:
 ## 📊 User Dashboard
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/assets/REPLACE_WITH_IMAGE_LINK/dashboard-page.png" alt="FurEver Home Dashboard" width="100%" />
+  <img src="https://github.com/karan466/fur-ever-home/assets/https://fur-ever-home-two.vercel.app/dashboard/dashboard-page.png" alt="FurEver Home Dashboard" width="100%" />
 </p>
 
 > 📌 After uploading screenshots to GitHub, replace the image links above with your actual image URLs.  
