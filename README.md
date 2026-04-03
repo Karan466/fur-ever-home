@@ -92,7 +92,6 @@ Users can manage everything from one place:
 - My Donations
 
 ---
-
 # 📸 Project Screenshots
 
 ## 🏠 Home Page
@@ -102,6 +101,7 @@ Users can manage everything from one place:
 </p>
 
 ---
+---
 
 ## 📊 User Dashboard
 
@@ -109,13 +109,6 @@ Users can manage everything from one place:
   <img src="PASTE_DASHBOARD_IMAGE_URL_HERE" alt="FurEver Home Dashboard" width="100%" />
 </p>
 ---
-
-## 📊 User Dashboard
-
-<p align="center">
-  <img src="https://github.com/karan466/fur-ever-home/assets/https://fur-ever-home-two.vercel.app/dashboard/dashboard-page.png" alt="FurEver Home Dashboard" width="100%" />
-</p>
-
 > 📌 After uploading screenshots to GitHub, replace the image links above with your actual image URLs.  
 > If you want, I can also tell you the **fastest way to upload these screenshots to GitHub**.
 
