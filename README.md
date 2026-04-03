@@ -2,86 +2,115 @@
 ### *A Full-Stack Pet Adoption & Donation Platform*  
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1517849845537-4d257902454a?w=250" width="180" height="180" style="border-radius:12px;" />
-  <img src="https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=250" width="180" height="180" style="border-radius:12px;" />
-  <img src="https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=250" width="180" height="180" style="border-radius:12px;" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%2B%20Vite-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Auth-Firebase-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Payments-Razorpay-4B5DFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployment-Vercel%20%2B%20Render-black?style=for-the-badge" />
 </p>
 
 <p align="center">
   <b>Connecting pets with loving homes ❤️</b><br/>
-  <i>Adopt • Donate • Support Animal Welfare</i>
+  <i>Adopt • Rescue • Care • Donate</i>
 </p>
 
 ---
 
-## 🌟 Project Overview
+## 🌟 About The Project
 
-**FurEver Home** is a modern full-stack web application built to simplify the **pet adoption process** and encourage **animal welfare support through donations**.
+**FurEver Home** is a modern full-stack web application designed to make **pet adoption** more accessible and meaningful while also supporting **animal welfare donation campaigns**.
 
-Users can:
-- 🐶 Browse and adopt pets
-- 📝 Add pets for adoption
-- ❤️ Create and support donation campaigns
-- 💳 Donate securely using **Razorpay**
-- 🔐 Sign in using **Email/Password** or **Google OAuth**
-- 📊 Manage everything from a personal dashboard
+This platform allows users to:
 
-This project demonstrates **real-world full-stack development skills**, including:
-- Authentication
-- Protected APIs
-- Database operations
-- Payment integration
-- Deployment workflow
+- 🐶 Explore pets available for adoption  
+- 📝 Add pets for adoption  
+- ❤️ Create and support donation campaigns  
+- 💳 Donate securely through **Razorpay**  
+- 🔐 Login/Register using **Email/Password** or **Google Authentication**  
+- 📊 Manage everything through a personalized **dashboard**  
+
+This project reflects **real-world full-stack engineering**, covering:
+- Authentication & Authorization
+- REST API integration
+- MongoDB database operations
+- Secure payments
+- Cloud deployment
+- Responsive UI/UX
 
 ---
 
 # 🚀 Live Project
 
 ## 🌐 Frontend
-🔗 **[Visit Live Website](https://your-vercel-url.vercel.app)**
+🔗 **[Visit Live Website](https://fur-ever-home-two.vercel.app/)**
 
 ## ⚙️ Backend API
-🔗 **[Backend Server](https://your-render-url.onrender.com)**
+🔗 **[Backend Server](https://your-render-backend.onrender.com/)**
 
-> ⚠️ Replace these links with your actual deployed URLs.
+> ⚠️ Replace the backend link above with your actual Render URL.
 
 ---
 
-# ✨ Key Features
+# ✨ Core Features
 
-## 🔐 Authentication
-- Email & Password Registration/Login
-- Google Sign-In with Firebase Authentication
-- JWT-based protected routes
-- Secure logout system
+## 🔐 Authentication System
+- User registration with Email/Password
+- User login with Email/Password
+- Google OAuth login/signup using Firebase
+- JWT-based secure protected routes
+- Persistent authentication state
 
 ---
 
 ## 🐾 Pet Adoption Module
-- Browse available pets
+- Browse all listed pets
 - View pet details
 - Add pets for adoption
-- Manage listed pets
-- Adoption request system
+- Manage pets from dashboard
+- Adoption request workflow
 
 ---
 
 ## ❤️ Donation Campaign Module
 - Create donation campaigns
 - View campaign details
-- Track donation progress
-- Donate securely via Razorpay
-- Donation history tracking
+- Track fundraising progress
+- Donate securely using Razorpay
+- Donation history stored in MongoDB
 
 ---
 
-## 📊 User Dashboard
+## 📊 Personalized Dashboard
+Users can manage everything from one place:
+
 - Dashboard Home
 - Add Pet
 - My Pets
 - Adoption Requests
 - Add Campaign
 - My Donations
+
+---
+
+# 📸 Project Screenshots
+
+## 🏠 Home Page
+
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/assets/REPLACE_WITH_IMAGE_LINK/home-page.png" alt="FurEver Home Homepage" width="100%" />
+</p>
+
+---
+
+## 📊 User Dashboard
+
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/assets/REPLACE_WITH_IMAGE_LINK/dashboard-page.png" alt="FurEver Home Dashboard" width="100%" />
+</p>
+
+> 📌 After uploading screenshots to GitHub, replace the image links above with your actual image URLs.  
+> If you want, I can also tell you the **fastest way to upload these screenshots to GitHub**.
 
 ---
 
@@ -100,33 +129,16 @@ This project demonstrates **real-world full-stack development skills**, includin
 - **Express.js**
 - **MongoDB**
 - **JWT Authentication**
-- **Razorpay Payment Gateway**
+- **Razorpay API**
 
 ## 🔐 Authentication
 - **Firebase Authentication**
 - **Google OAuth**
 
 ## ☁️ Deployment
-- **Vercel** → Frontend
-- **Render** → Backend
-- **MongoDB Atlas** → Database
-
----
-
-# 📸 UI Preview
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/616/616408.png" width="80"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/194/194279.png" width="80"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/616/616430.png" width="80"/>
-</p>
-
-### Main User Flow:
-- 🐕 Explore Pets  
-- 🏠 Adopt a Pet  
-- 💝 Support Campaigns  
-- 💳 Make Donations  
-- 📈 Track Activity in Dashboard  
+- **Vercel** → Frontend  
+- **Render** → Backend  
+- **MongoDB Atlas** → Database  
 
 ---
 
