@@ -98,9 +98,16 @@ Users can manage everything from one place:
 ## 🏠 Home Page
 
 <p align="center">
-  <img src="https://github.com/karan466/fur-ever-home/assets/https://fur-ever-home-two.vercel.app//home-page.png" alt="FurEver Home Homepage" width="100%" />
+  <img src="PASTE_HOME_IMAGE_URL_HERE" alt="FurEver Home Homepage" width="100%" />
 </p>
 
+---
+
+## 📊 User Dashboard
+
+<p align="center">
+  <img src="PASTE_DASHBOARD_IMAGE_URL_HERE" alt="FurEver Home Dashboard" width="100%" />
+</p>
 ---
 
 ## 📊 User Dashboard
